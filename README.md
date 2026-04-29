@@ -3,6 +3,8 @@
 # Tiny Tapeout Verilog Project - Matrix-MSA
 
 - [Read the documentation for project](docs/info.md)
+- <img width="732" height="605" alt="image" src="https://github.com/user-attachments/assets/867c12ca-b3a8-4049-956b-a65d09b89033" />
+
 
 ## What is Tiny Tapeout?
 
