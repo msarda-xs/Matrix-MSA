@@ -13,7 +13,7 @@ Displays my name in a matrix
 
 ## How to test
 
-Explain how to use your project
+Test on hardware
 
 ## External hardware
 
